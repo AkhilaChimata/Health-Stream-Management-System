@@ -42,6 +42,6 @@ Run the application:
 python src/main.py
 
 # 📌 Project Timeline
-🗓️ Duration: 8 Weeks
+🗓️ Duration: 7 Weeks
 🧩 Capstone Course: BIS 698 – Information Systems Capstone
 🏫 University: Central Michigan University
