@@ -28,3 +28,20 @@ Pandas, NumPy – Data manipulation
 Matplotlib – Data visualization
 
 fpdf / openpyxl – PDF and Excel report generation
+
+# ⚙️ Installation
+Clone the repository:
+git clone https://github.com/YourUsername/Health-Stream-Management-System.git
+
+Install the required packages:
+pip install -r requirements.txt
+
+Set up the MySQL database using the provided .sql script.
+
+Run the application:
+python src/main.py
+
+# 📌 Project Timeline
+🗓️ Duration: 8 Weeks
+🧩 Capstone Course: BIS 698 – Information Systems Capstone
+🏫 University: Central Michigan University
